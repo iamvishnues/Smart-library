@@ -4,6 +4,7 @@ All the icons used in the project are available in the icons folder.
 I have used XAMPP to create database i have also attached database file in this folder please look into it also i have entered plenty of values into the database and that may help you. 
 If you are benifited from this or used this please send an email telling "Thank you i have used your project" I will be very happy if get this. I spent many days and nights in doing this.
 In some systems the Jframe might not fit into your screen because i haven't implemented the jframe to change dynamically according to your display.
+note : If you download this source code and try running this then you may not see the images in the application you need to mention the path in the project otherwise it will show an empty image layouts.
 
 All the required jar files and images are in this repository all you need to have is Netbeans (install JDK) & XAMPP.
 
