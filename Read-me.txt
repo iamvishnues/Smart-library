@@ -1,0 +1,15 @@
+Hello this smart library software was developed by me during my 5th sem CS&E.
+NOTE : I am uploading this only to refer please do the project on your own or you can replicate this project but donot submit this project.
+All the icons used in the project are available in the icons folder.
+I have used XAMPP to create database i have also attached database file in this folder please look into it also i have entered plenty of values into the database and that may help you. 
+If you are benifited from this or used this please send an email telling "Thank you i have used your project" I will be very happy if get this. I spent many days and nights in doing this.
+In some systems the Jframe might not fit into your screen because i haven't implemented the jframe to change dynamically according to your display.
+
+All the required jar files and images are in this repository all you need to have is Netbeans (install JDK) & XAMPP.
+
+THANK YOU FOR USING MY PROJECT
+ALL THE BEST
+
+
+Vishnu ES
+esviputtur@gmail.com
