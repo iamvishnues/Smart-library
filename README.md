@@ -1,4 +1,4 @@
 # Smart-Library 
 Java application to maintain records in School/College Library.
 
-![](screenshots/splash.png)
+<img src="screenshots/splash.png" width=200px>
