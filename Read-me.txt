@@ -1,6 +1,6 @@
 Hello this smart library project was developed by me during my 5th sem CSE.
 
-NOTE : I am uploading this only to refer please do the project on your own or you can replicate this project but donot submit this project.
+NOTE : I am uploading this only to refer please do the project on your own or you can replicate this project but do not submit this project.
 All the icons used in the project are available in the icons folder.
 I had used XAMPP (phpmyadmin) to create database i have also attached database file in this folder please look into it also i have entered plenty of values into the database and that may help you. 
 
