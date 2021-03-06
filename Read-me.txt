@@ -9,7 +9,7 @@ note : If you download this source code and try running this then you may not se
 
 All the required jar files and images are in this repository all you need to have is Netbeans (install JDK) & XAMPP.
 
-THANK YOU FOR USING MY PROJECT
+
 
 
 Vishnu ES
